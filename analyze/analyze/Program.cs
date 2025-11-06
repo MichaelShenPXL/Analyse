@@ -18,7 +18,7 @@ namespace analyze
 
             if (Name == user && wachtwoord == password)
             {
-                Console.WriteLine($"welkom {Name} in het systeem");
+                Console.WriteLine($"welkom {Name} in het systeem!");
             }
             else
             {
